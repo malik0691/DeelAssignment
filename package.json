@@ -1,0 +1,20 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test --reporter=line",
+    "allure:report": "allure generate ./allure-results --clean && allure open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "allure-playwright": "^2.15.1"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
