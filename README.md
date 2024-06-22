@@ -15,11 +15,12 @@ To set up the project and install the necessary dependencies, follow these steps
 
 1. Clone the repository:
 
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/malik0691/DeelAssignment.git
 
 2. Install the dependencies:
     **npm install**
+
+3. Install Playwright:
     **npx playwright install**
 
 3. Run tasks using command: **npx playwright test**
