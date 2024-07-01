@@ -19,6 +19,7 @@ To set up the project and install the necessary dependencies, follow these steps
 
 2. Install the dependencies:
     **npm install**
+    **npm init playwright@latest**
 
 3. Install Playwright:
     **npx playwright install**
