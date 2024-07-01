@@ -17,8 +17,10 @@ To set up the project and install the necessary dependencies, follow these steps
 
    git clone https://github.com/malik0691/DeelAssignment.git
 
-2. Install the dependencies:
+2. Install the node pakage:
     **npm install**
+
+2.1. Initialize the playwright
     **npm init playwright@latest**
 
 3. Install Playwright:
